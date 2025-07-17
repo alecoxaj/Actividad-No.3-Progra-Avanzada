@@ -1,4 +1,4 @@
-print("Suma: ", a + b)
-print("Resta: ", a - b)
-print("Multiplicación: ", a * b)
-print("División: ", a / b)
+print("La Suma da como resultado: ", a + b)
+print("La Resta da como resultado: ", a - b)
+print("La Multiplicación da como resultado: ", a * b)
+print("La División da como resultado: ", a / b)
