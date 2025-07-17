@@ -1,4 +1,4 @@
-print("Bienvenidos a la Calculadora 3000")
+print("Bienvenidos a la Calculadora 3000.")
 a = float(input("Ingrese el primer número: "))
 
 b = float(input("Ingrese el segundo número: "))
