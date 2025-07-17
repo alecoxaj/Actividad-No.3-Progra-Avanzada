@@ -23,5 +23,5 @@ elif opcion == "4":
     else:
         print("Error: No se puede dividir entre cero.")
 else:
-    print("Opción no válida. ")
+    print("Opción no válida.")
 
